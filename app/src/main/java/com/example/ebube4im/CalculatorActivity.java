@@ -16,6 +16,10 @@ public class CalculatorActivity extends AppCompatActivity {
     }
 
 
+    // Next is to create a method that will validate the imputs that have been entered;
+    // What else can we say is the reason for this season?
+
+
     public void display(View v){
         
         String displayText = ((Button)v).getText().toString();
